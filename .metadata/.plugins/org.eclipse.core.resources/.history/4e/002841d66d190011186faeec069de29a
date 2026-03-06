@@ -1,0 +1,3 @@
+spring.application.name=demo
+#puerto por defecto
+server.port=8082
